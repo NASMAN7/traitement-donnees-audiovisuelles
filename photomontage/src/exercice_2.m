@@ -46,7 +46,7 @@ p_sub = p(i_min:i_max, j_min:j_max);
 
 % 5. Traitement via l'équation de Poisson
 interieur = find(p_sub > 0);
-% On applique votre excellente fonction collage !
+
 u_sub = collage(c_sub, s_sub, interieur);
 
 % 6. Reconstruction de l'image finale
