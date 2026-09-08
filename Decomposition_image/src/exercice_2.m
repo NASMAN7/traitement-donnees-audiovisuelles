@@ -85,8 +85,5 @@ for iteration = 1:nb_iterations
 	drawnow nocallbacks
 	pause(0.1)
 
-    % Incrementation du nombre d'iterations :
-    iteration = iteration + 1;
-
 end
 
