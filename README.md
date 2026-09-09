@@ -87,7 +87,10 @@ variationnelles et par exemplaires :
 - **inpainting par rapiéçage** (copie de patchs de texture) pour supprimer un objet de
   grande taille.
 
-<img src="restauration_images/results/3_fleur_restauree_inpainting.png" width="300"> <img src="restauration_images/results/4_randonneur_rapiecage.png" width="300">
+| Source | | Résultat |
+|:---:|:---:|:---:|
+| <img src="restauration_images/results/fleur_degradee.png" width="260"> | ➜ | <img src="restauration_images/results/3_fleur_restauree_inpainting.png" width="260"> |
+| <img src="restauration_images/results/randonneur_original.png" width="260"> | ➜ | <img src="restauration_images/results/4_randonneur_rapiecage.png" width="260"> |
 
 📄 [Rapport complet](<restauration_images/Restauration variationnelle et inpainting d'images.pdf>) · 💻 [Scripts MATLAB](restauration_images/src)
 
